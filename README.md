@@ -1,7 +1,7 @@
 
 ## Hello, I'm Jumana: 
 
-## 🤍 School life
+## 🤍 School life 
 
 🐚 Attending The University of New Orleans (Graduating May 2025)
 ☁️ Majoring in Computer Science 
