@@ -1,4 +1,3 @@
-[![MasterHead]([your image link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2FOfficialEbay%2Fdiscord-banners%2F&psig=AOvVaw2L1GT9ioQ56rhqmuX7dEqe&ust=1697765728508000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDQiav8gIIDFQAAAAAdAAAAABBp)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2FOfficialEbay%2Fdiscord-banners%2F&psig=AOvVaw2L1GT9ioQ56rhqmuX7dEqe&ust=1697765728508000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDQiav8gIIDFQAAAAAdAAAAABBp)](your GitHub link)
 
 ## Meet the Creators:
 
