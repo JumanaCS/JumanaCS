@@ -1,5 +1,6 @@
+![066c7acda8e46d8b7e3637c01c7197d4](https://github.com/JumanaCS/JumanaCS/assets/148403239/420ac19e-915b-44ef-843f-0c17450ddbb7)
 
-## Hello, I'm Jumana: 
+## Hello, I'm Jumana!:
 
 ### 🤍 School life 
 
