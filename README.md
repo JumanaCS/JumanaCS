@@ -3,7 +3,7 @@
 
 ### 🤍 School life 
 
-🐚 Attending The University of New Orleans (Graduating May 2025)
+^🐚 Attending The University of New Orleans (Graduating May 2025)^ 
 ☁️ Majoring in Computer Science 
 🧸 Currently Learning - Mobile App Development (React-Native & JSX) 
 🎧 Presenting a mobile app at InnovateUNO with my team in November! 
