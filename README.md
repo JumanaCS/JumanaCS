@@ -1,4 +1,4 @@
-[![MasterHead](https://pin.it/6i6KR8F)](https://github.com/JumanaCS)
+
 
 ## Meet the Creators:
 
