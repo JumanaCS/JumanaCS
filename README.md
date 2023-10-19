@@ -1,7 +1,7 @@
 
 ## Hello, I'm Jumana: 
 
-## 🤍 School life 
+### 🤍 School life 
 
 🐚 Attending The University of New Orleans (Graduating May 2025)
 ☁️ Majoring in Computer Science 
@@ -11,7 +11,7 @@
  🍦 I’m interested in furthering my knowledge in web and mobile application development
 
 
- ## 🤎 Personal life
+ ### 🤎 Personal life
 
 🥥 Location: New Orleans, Louisiana 
 🕊️ Currently working on - 
