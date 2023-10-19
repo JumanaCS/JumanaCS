@@ -3,6 +3,7 @@
 
 ### 🤍 School life 
 
+
 - 🐚 Attending The University of New Orleans (Graduating May 2025)
 - ☁️ Majoring in Computer Science 
 - 🧸 Currently Learning - Mobile App Development (React-Native & JSX) 
@@ -13,12 +14,10 @@
 
  ### 🤎 Personal life
 
-🥥 Location: New Orleans, Louisiana 
 
-🕊️ Currently working on - 
+- 🥥 Location: New Orleans, Louisiana 
+- 🕊️ Currently working on - 
+- 🫧 Currently Developing a  
+- 🥛 Tutoring a high school student how to code for their future CS major 
 
-🫧 Currently Developing a 
-
-🥛 Tutoring a high school student how to code for their future CS major 
-
-💼 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul) or [Email](jumana.suleiman.cs@gmail.com).
+- 💼 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul) or [Email](jumana.suleiman.cs@gmail.com).
