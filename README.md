@@ -8,7 +8,8 @@
 - 🐚 Attending The University of New Orleans (Graduating May 2025)
 - ☁️ Majoring in Computer Science 
 - 🧸 Currently Learning - Mobile App Development (React-Native & JSX) 
-- 🎧 Presenting a mobile app at InnovateUNO with my team in November! 
+- 🎧 Presenting a mobile app at InnovateUNO with my team in November!
+- 🥛 Take a stroll through my repos to see what I'm working on
 
 - 🍦 I’m interested in furthering my knowledge in web and mobile application development
 
@@ -19,6 +20,6 @@
 - 🥥 Location: New Orleans, Louisiana 
 - 🕊️ Currently working on - 
 - 🫧 Currently Developing a  
-- 🥛 Tutoring a high school student how to code for their future CS major 
+- 🥞 Tutoring a high school student how to code for their future CS major 
 
 - 💼 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul) or [Email](jumana.suleiman.cs@gmail.com).
