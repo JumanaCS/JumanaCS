@@ -11,7 +11,7 @@
 - 🎧 Presenting a mobile app at InnovateUNO with my team in November!
 - 🥛 Take a stroll through my repos to see what I'm working on
 
-- 🍦 I’m interested in furthering my knowledge in web and mobile application development
+🍦 I’m interested in furthering my knowledge in web and mobile application development
 
 
  ### 🤎 Personal life
@@ -22,4 +22,4 @@
 - 🫧 Currently Developing a  
 - 🥞 Tutoring a high school student how to code for their future CS major 
 
-- 💼 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul) or [Email](jumana.suleiman.cs@gmail.com).
+💼 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul) or [Email](jumana.suleiman.cs@gmail.com).
