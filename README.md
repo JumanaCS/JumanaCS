@@ -20,6 +20,6 @@
 - 🥥 Location: New Orleans, Louisiana 
 - 🕊️ Currently working on - 'ACE' a mobile study app 
 - 🫧 Currently Developing a solo Roblox horror game
-- 🥞 Tutoring a high school student how to code for their future CS major 
+- 🥞 Tutoring a high school student on how to code in JAVA for their future CS major 
 
 💼 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul) or [Email](jumana.suleiman.cs@gmail.com).
