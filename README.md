@@ -9,7 +9,7 @@
 - ☁️ Majoring in Computer Science 
 - 🧸 Currently Learning - Mobile App Development (React-Native & JSX) 
 - 🎧 Presenting a mobile app at InnovateUNO with my team in November!
-- 🥛 Take a stroll through my repos to see what I'm working on
+- 🥛 Take a stroll through my [repos](https://github.com/JumanaCS?tab=repositories) to see what I'm working on
 
 🍦 I’m interested in furthering my knowledge in web and mobile application development
 
