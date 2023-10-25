@@ -18,7 +18,7 @@
 
 
 - 🥥 Location: New Orleans, Louisiana 
-- 🕊️ Currently working on - 'ACE' a mobile study app 
+- 🕊️ Currently working on - ['ScholarUp'](https://github.com/JumanaCS/ScholarUp) a mobile study app 
 - 🫧 Currently Developing a solo Roblox horror game
 - 🥞 Tutoring a high school student on how to code in JAVA for their future CS major 
 
