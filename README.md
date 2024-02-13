@@ -6,20 +6,19 @@
 
 
 - 🐚 Attending The University of New Orleans (Graduating May 2025)
-- ☁️ Majoring in Computer Science 
-- 🧸 Currently Learning - Mobile App Development (React-Native & JSX) 
-- 🎧 Presenting a mobile app at InnovateUNO with my team in November!
+- Majoring in Computer Science 
+- 🧸 Currently Learning - Artificial intelligence and how to lead a wonderful group of women in ACM-W 
+- Presenting my mobile app at Louisiana System Academic Summit with my team in April!
 - 🥛 Take a stroll through my [repos](https://github.com/JumanaCS?tab=repositories) to see what I'm working on
-
-🍦 I’m interested in furthering my knowledge in web and mobile application development
 
 
  ### 🤎 Personal 
 
 
 - 🥥 Location: New Orleans, Louisiana 
-- 🕊️ Currently working on - ['ScholarUp'](https://github.com/JumanaCS/ScholarUp) a mobile study app 
-- 🫧 Currently Developing a solo Roblox horror game
-- 🥞 Tutoring a high school student on how to code in JAVA for their future CS major 
+- Currently working on - ['ScholarUp'](https://github.com/JumanaCS/ScholarUp) a mobile study app 
+- 🫧 Currently Developing a solo Roblox horror game 
+- Tutoring a high school student on how to code in JAVA for their future CS major
+- 🎧 Working on graphics for a pixel game my friend is developing 
 
 💼 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul) or [Email](jumana.suleiman.cs@gmail.com).
