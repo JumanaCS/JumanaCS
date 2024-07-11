@@ -7,7 +7,7 @@
 
 - 🐚 Attending The University of New Orleans (Graduating May 2025)
 - Majoring in Computer Science 
-- 🧸 ACM-W president at the Univeristy of New Orleans.
+- 🧸 ACM-W president at UNO.
 - Presenting my mobile app at Louisiana System Academic Summit with my team in April!
 - 🥛 Take a stroll through my [repos](https://github.com/JumanaCS?tab=repositories) to see what I'm working on
 
