@@ -21,4 +21,4 @@
 - Tutoring a high school student on how to code in JAVA for their future CS major
 - 🎧 Working on graphics for a pixel game my friend is developing 
 
-💼 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul) or [Email](jumana.suleiman.cs@gmail.com).
+💼 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul).
