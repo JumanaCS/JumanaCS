@@ -1,4 +1,4 @@
-![066c7acda8e46d8b7e3637c01c7197d4](https://github.com/JumanaCS/JumanaCS/assets/148403239/420ac19e-915b-44ef-843f-0c17450ddbb7)
+![IMG_1630](https://github.com/user-attachments/assets/55572224-1342-4474-b0a4-7321b18d1b0e)
 
 ## Hello, I'm Jumana:
 
