@@ -1,4 +1,4 @@
-![IMG_1630](https://github.com/user-attachments/assets/55572224-1342-4474-b0a4-7321b18d1b0e)
+![IMG_1629](https://github.com/user-attachments/assets/f4ddda7d-0a76-45d4-b464-48e34a1c0f3d)
 
 ## Hello, I'm Jumana:
 
