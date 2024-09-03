@@ -2,23 +2,23 @@
 
 ## Hello, I'm Jumana:
 
-### 🤍 School  
+### 🍊 School  
 
 
-- 🐚 Attending The University of New Orleans (Graduating May 2025)
+- 🍰 Attending The University of New Orleans (Graduating May 2025)
 - Majoring in Computer Science
-- 🧸 ACM-W president at UNO
+- 🐡 ACM-W president at UNO
 - Recipient of the UNO Women in Computer Science Scholarship
-- 🥛 Take a stroll through my [repos](https://github.com/JumanaCS?tab=repositories) to see what I'm working on
+- 🌸 Take a stroll through my [repos](https://github.com/JumanaCS?tab=repositories) to see what I'm working on
 
 
- ### 🤎 Personal 
+ ### 🍓 Personal 
 
 
-- 🥥 Location: New Orleans, Louisiana 
+- 🫐 Location: New Orleans, Louisiana 
 - Currently working on - ['ScholarUp'](https://github.com/JumanaCS/ScholarUp) a mobile study app 
 - 🫧 Working on my portfolio website
 - Excited to be mentored by Sabrina Farmer
-- 🎧 Working on graphics for a pixel game my friend is developing 
+- 💫 Working on graphics for a pixel game my friend is developing 
 
-💼 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul).
+📧 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul).
