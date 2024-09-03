@@ -16,9 +16,9 @@
 
 
 - 🫐 Location: New Orleans, Louisiana 
-- Currently working on - ['ScholarUp'](https://github.com/JumanaCS/ScholarUp) a mobile study app 
+- Creating my own start-up app business. Starting with the app ['ScholarUp'](https://github.com/JumanaCS/ScholarUp) 
 - 🫧 Working on my portfolio website
 - Excited to be mentored by Sabrina Farmer
-- 💫 Working on graphics for a pixel game my friend is developing 
+- 💫 Taking Game Development this semester
 
 📧 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul).
