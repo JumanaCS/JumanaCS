@@ -19,6 +19,6 @@
 - Creating my own start-up app business. Starting with the app ['ScholarUp'](https://github.com/JumanaCS/ScholarUp) 
 - 🫧 Working on my portfolio website
 - Excited to be mentored by Sabrina Farmer
-- 💫 Taking Game Development this semester
+- 💫 Will be attending Grace Hopper October 2024
 
 📧 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul).
