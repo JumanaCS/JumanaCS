@@ -6,9 +6,9 @@
 
 
 - 🍰 Attended The University of New Orleans (Graduated May 2025)
-- Majoring in Computer Science
+- Bachelor of Science in Computer Science - (Magna Cum Laude)
 - 🐡 Former ACM-W president at UNO 
-- Former Recipient of the UNO Women in Computer Science Scholarship
+- Former Recipient of the UNO Women in Computer Science Scholarship (2024 - 2025)
 - 🌸 Take a stroll through my [repos](https://github.com/JumanaCS?tab=repositories) to see what I'm working on
 
 
@@ -19,6 +19,6 @@
 - Creating my own start-up app business. Starting with the app ['ScholarUp'](https://github.com/JumanaCS/ScholarUp) 
 - 🫧 Excited to be mentored by Sabrina Farmer
 - Attended Grace Hopper in October 2024
-- 💫 Portfolio Website: www.cyberjumana.com (currently under work) 
+- 💫 Portfolio Website: https://cyberjumana.com/ 
 
 📧 How to reach me - [LinkedIn](https://www.linkedin.com/in/jumana-sul).
