@@ -1,1 +1,1 @@
-![IMG_1629](https://github.com/user-attachments/assets/f4ddda7d-0a76-45d4-b464-48e34a1c0f3d)
+<img width="2103" height="1080" alt="Untitled_Artwork" src="https://github.com/user-attachments/assets/f0a1406d-5e33-4cfa-8743-4ea7c312ce23" />
